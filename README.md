@@ -11,7 +11,7 @@
 
 The **Social Welfare Web Application** is more than just a chatbot; it is a comprehensive **ecosystem** designed to centralize all welfare resources in one place. It serves as an intelligent bridge between complex government data and user queries, leveraging **realtime webscraping** to provide the most current information.
 
-<img src="./Screenshot%202025-12-29%20145830.png" alt="Social Welfare Architecture" width="350">
+<img src="./images/Screenshot 2025-12-29 145830.png" width="350">
 
 
 </div>
@@ -26,9 +26,9 @@ The **Social Welfare Web Application** is more than just a chatbot; it is a comp
 *   **📊 Personalized Dashboard**: Users get a tailored view of schemes they are most likely to qualify for.
 *   **🔒 Secure & Scalable**: built with modern security best practices and designed to handle high traffic.
 
-<div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
-  <img src="./Gemini_Generated_Image_8qar848qar848qar.png" alt="App Preview 1" width="45%">
-  <img src="./Gemini_Generated_Image_v36hebv36hebv36h.png" alt="App Preview 2" width="45%">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
+  <img src="./images/Gemini_Generated_Image_8qar848qar848qar.png" alt="App Preview 1" width="45%">
+  <img src="./images/Gemini_Generated_Image_v36hebv36hebv36h.png" alt="App Preview 2" width="45%">
 </div>
 
 ---
