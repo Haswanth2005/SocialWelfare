@@ -9,7 +9,7 @@
 
 The **Social Welfare Web Application** is more than just a chatbot; it is a comprehensive **ecosystem** designed to centralize all welfare resources in one place. It serves as an intelligent bridge between complex government data and user queries, leveraging **realtime webscraping** to provide the most current information.
 
-![Social Welfare Architecture](./Screenshot%202025-12-29%20145830.png)
+<img src="./Screenshot%202025-12-29%20145830.png" alt="Social Welfare Architecture" width="300">
 
 ---
 
@@ -28,6 +28,7 @@ The **Social Welfare Web Application** is more than just a chatbot; it is a comp
 | Component | Technology | Description |
 | :--- | :--- | :--- |
 | **Frontend** | React.js / Vite | Responsive user interface for citizens. |
+| **Backend** | Node.js | Server-side JavaScript runtime. |
 | **Automation** | **n8n** | Workflow orchestration for scraping and AI logic. |
 | **Scraping** | **Crawl4AI** | High-performance async web crawling and scraping. |
 | **Database** | **Supabase** | Vector store for AI embeddings and relational DB for user data. |
