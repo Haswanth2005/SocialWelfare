@@ -1,0 +1,77 @@
+:root {
+  /* Strict Monochrome Dark Theme with Gradients */
+  --bg-dark: #000000;
+  --bg-card: #0a0a0a;
+  --bg-hover: #171717;
+
+  --text-main: #ffffff;
+  --text-muted: #a3a3a3;
+
+  --primary: #ffffff;
+  --accent: #525252;
+
+  --border-color: rgba(255, 255, 255, 0.15);
+
+  /* New Gradients */
+  --grad-metallic: linear-gradient(135deg, #e2e2e2 0%, #9ca3af 100%);
+  --grad-silver: linear-gradient(to bottom, #ffffff 0%, #d1d5db 100%);
+  --grad-dark: linear-gradient(180deg, #171717 0%, #000000 100%);
+  --grad-glow: radial-gradient(circle at top, rgba(255, 255, 255, 0.08) 0%, transparent 70%);
+
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  line-height: 1.6;
+  font-weight: 400;
+
+  color-scheme: dark;
+  color: var(--text-main);
+  background-color: var(--bg-dark);
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+a {
+  font-weight: 500;
+  color: var(--text-main);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+  transition: all 0.2s;
+}
+
+a:hover {
+  border-color: var(--text-main);
+  text-shadow: 0 0 8px rgba(255, 255, 255, 0.4);
+}
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  line-height: 1.2;
+  color: var(--text-main);
+}
