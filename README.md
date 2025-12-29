@@ -1,6 +1,6 @@
 <div align="center">
 
-# Social Welfare Web Application 🌍🤝
+# Veda - Social Welfare Web Application 🌍🤝
 
 > **Note**: This is the official documentation and setup guide for the Social Welfare AI-Powered Platform.
 
