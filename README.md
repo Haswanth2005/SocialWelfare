@@ -1,3 +1,5 @@
+<div align="center">
+
 # Social Welfare Web Application 🌍🤝
 
 > **Note**: This is the official documentation and setup guide for the Social Welfare AI-Powered Platform.
@@ -9,7 +11,9 @@
 
 The **Social Welfare Web Application** is more than just a chatbot; it is a comprehensive **ecosystem** designed to centralize all welfare resources in one place. It serves as an intelligent bridge between complex government data and user queries, leveraging **realtime webscraping** to provide the most current information.
 
-<img src="./Screenshot%202025-12-29%20145830.png" alt="Social Welfare Architecture" width="300">
+<img src="./Screenshot%202025-12-29%20145830.png" alt="Social Welfare Architecture" width="350">
+
+</div>
 
 ---
 
