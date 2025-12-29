@@ -9,7 +9,9 @@
 
 ## 📋 Overview
 
-The **Social Welfare Web Application** is more than just a chatbot; it is a comprehensive **ecosystem** designed to centralize all welfare resources in one place. It serves as an intelligent bridge between complex government data and user queries, leveraging **realtime webscraping** to provide the most current information.
+**Veda is not just a chatbot, but a complete social welfare ecosystem** designed to bridge the gap between citizens and government benefits. An advanced **n8n workflow integration** serves as the platform’s core, acting as the intelligent brain behind every process.
+
+While traditional apps rely on static, outdated databases, Veda utilizes **Crawl4AI** for real-time web scraping, continuously extracting live data directly from government portals. This guarantees that our AI assistant operates with 100% accuracy, powered by realtime, verified data. By automating data verification through n8n, Instead of navigating complex paperwork, Veda gives users a clear, personalized path to the benefits they deserve.
 
 <img src="./images/Screenshot 2025-12-29 145830.png" width="350">
 
