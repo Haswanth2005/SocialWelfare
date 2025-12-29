@@ -1,17 +1,19 @@
 <div align="center">
 
 # Veda - Social Welfare Web Application 🌍🤝
-
 > **Note**: This is the official documentation and setup guide for the Social Welfare AI-Powered Platform.
 
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue)
+</div>
+
 
 ## 📋 Overview
 
 **Veda is not just a chatbot, but a complete social welfare ecosystem** designed to bridge the gap between citizens and government benefits. An advanced **n8n workflow integration** serves as the platform’s core, acting as the intelligent brain behind every process.
 
 While traditional apps rely on static, outdated databases, Veda utilizes **Crawl4AI** for real-time web scraping, continuously extracting live data directly from government portals. This guarantees that our AI assistant operates with 100% accuracy, powered by realtime, verified data. By automating data verification through n8n, Instead of navigating complex paperwork, Veda gives users a clear, personalized path to the benefits they deserve.
+<div align="center">
 
 <img src="./images/Screenshot 2025-12-29 145830.png" width="350">
 
